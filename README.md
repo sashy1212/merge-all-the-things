@@ -8,6 +8,10 @@ Want your free shirt from Hacktoberfest? Real projects are too hard to contribut
 2. @dzakiimuzh
 
 ## FAQ
+- Q: How many contributions can I make? A: Unlimited contributions.
+- Q: How big or small should be the contribution? A: There is no limitation here, you can add and emoji or a ten thousand lines file.
+- Q: Are photos allowed? A: Yes
+- Q: How will be my name added on the contributors list? A: Add it by yourself or once your PR is merged I will add it.
 - Q: Will I be able to get my shirt? A: Probably not as this isn' t a real OSS contribution, I hope DigitalOcean is able to  identify this kind of _contributions_
 - Q: Then why you created this? A: It hopefully stops someone to send a garbage PR to a real project and send it here.
 - Q: Wait, if you say this why people will try to contribute to this project? A: I count on people not reading (the laziest ones). 
