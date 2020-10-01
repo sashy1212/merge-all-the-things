@@ -3,7 +3,7 @@ const hello = (name, message) => {
 }
 
 hello('Jonathan', 'Happy Hacktoberfest! Finally something good from 2020');
-
+hello("Aniket","Thankyou for making this Repository")
 
 const message =  (message) => {
 
@@ -12,3 +12,5 @@ const message =  (message) => {
 }
 
 message('Thank You Jonathan');
+
+message("Have a good Day 👻 ")

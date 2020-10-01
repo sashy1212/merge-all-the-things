@@ -6,6 +6,7 @@ Want your free shirt from Hacktoberfest? Real projects are too hard to contribut
 
 1. @RedHoodJT1988
 2. @dzakiimuzh
+3. @anirket
 
 ## FAQ
 - Q: Will I be able to get my shirt? A: Probably not as this isn' t a real OSS contribution, I hope DigitalOcean is able to  identify this kind of _contributions_
