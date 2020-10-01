@@ -6,6 +6,7 @@ hello('Jonathan', 'Happy Hacktoberfest! Finally something good from 2020');
 hello("Aniket","Thankyou for making this Repository")
 hello("Jonas Alves","The best challenge - hacktoberfest 2020 | Brazil")
 hello("Erik","Hello there from mexico 🇲🇽")
+hello("Ayrton Cossuol","Best event of the year - Brazil, hacktoberfest 2020")
 
 
 const message =  (message) => {
