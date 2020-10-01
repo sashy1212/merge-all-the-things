@@ -13,5 +13,6 @@ while cap.isOpened():
             cv2.imwrite('image.jpg', back)
             break
 
+#Releasing the lock
 cap.release()
 cv2.destroyAllWindows()
