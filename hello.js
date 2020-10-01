@@ -14,3 +14,5 @@ const message =  (message) => {
 message('Thank You Jonathan');
 
 message("Have a good Day 👻 ")
+
+message('Thank you for this repo. Greetings from Turkey :)');
