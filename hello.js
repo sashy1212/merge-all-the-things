@@ -4,6 +4,7 @@ const hello = (name, message) => {
 
 hello('Jonathan', 'Happy Hacktoberfest! Finally something good from 2020');
 hello("Aniket","Thankyou for making this Repository")
+hello("Erik","Hello there from mexico 🇲🇽")
 
 const message =  (message) => {
 
