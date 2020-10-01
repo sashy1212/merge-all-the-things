@@ -17,4 +17,8 @@ message('Thank You Jonathan');
 
 message("Have a good Day 👻 ")
 
+
 message('Always challenge your mind');
+
+message('Thank you for this repo. Greetings from Turkey :)');
+
