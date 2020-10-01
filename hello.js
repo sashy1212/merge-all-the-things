@@ -2,7 +2,7 @@ const hello = (name, message) => {
     console.log(`${name} says ${message}`);
 }
 
-hello('Jonathan', 'Happy Hacktoberfest! Finally something good from 2020');
+hello('Georgey', 'Hey there guys just want to spread the word that anyone can do coding! And Good luck for the future');
 
 
 const message =  (message) => {
@@ -11,4 +11,4 @@ const message =  (message) => {
 
 }
 
-message('Thank You Jonathan');
+message('Thank You Georgey');
