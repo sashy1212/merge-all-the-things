@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+#Image capture
 cap = cv2.VideoCapture(0)
 back = cv2.imread('./image.jpg')
 
