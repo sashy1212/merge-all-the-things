@@ -6,6 +6,12 @@ Want your free shirt from Hacktoberfest? Real projects are too hard to contribut
 
 1. @RedHoodJT1988
 2. @dzakiimuzh
+3. @anirket
+4. @aman-raza
+5. @keremh
+6. @JonasJs
+7. @eriksape
+9. @deprecated
 
 ## FAQ
 - Q: How many contributions can I make? A: Unlimited contributions.
