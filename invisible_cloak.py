@@ -1,3 +1,4 @@
+#!/bin/env python
 import cv2
 import numpy as np
 
@@ -41,6 +42,11 @@ while cap.isOpened():
 
         if cv2.waitKey(5) == ord('q'):
             break
+def main():
+    cap.release()
+    cv2.destroyAllWindows()
+    
+if __name__ == "__main__":
+    main()
 
-cap.release()
-cv2.destroyAllWindows()
+# you can invoke me: python invisible_cloack.py
