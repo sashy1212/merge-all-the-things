@@ -2,11 +2,14 @@ const hello = (name, message) => {
     console.log(`${name} says ${message}`);
 }
 
+
+hello('Georgey', 'Hey there guys just want to spread the word that anyone can do coding! And Good luck for the future')
 hello('Jonathan', 'Happy Hacktoberfest! Finally something good from 2020');
 hello("Aniket","Thankyou for making this Repository")
 hello("Jonas Alves","The best challenge - hacktoberfest 2020 | Brazil")
 hello("Erik","Hello there from mexico 🇲🇽")
 hello("Ayrton Cossuol","Best event of the year - Brazil, hacktoberfest 2020")
+
 
 
 const message =  (message) => {
@@ -16,6 +19,8 @@ const message =  (message) => {
 }
 
 
+message('Thank You Georgey');
+
 message('Thank You Jonathan');
 
 message("Have a good Day 👻 ")
@@ -24,4 +29,5 @@ message("Have a good Day 👻 ")
 message('Always challenge your mind');
 
 message('Thank you for this repo. Greetings from Turkey :)');
+
 
